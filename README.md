@@ -1,4 +1,5 @@
-
+CI cơ bản với GitHub Action
+[![Java CI with Maven](https://github.com/khanhvan1999/Nhom4-ctk41/actions/workflows/maven.yml/badge.svg)](https://github.com/khanhvan1999/Nhom4-ctk41/actions/workflows/maven.yml)
 
 ## About project
 
