@@ -1,0 +1,2 @@
+Test git
+Thử thêm commit vào branch1
